@@ -1,1 +1,1 @@
-# petpj_ya_weather
+Этот проект получения данных  из api yandex погоды.
